@@ -111,12 +111,14 @@
             ],
             "samples": [
                 "geolosys:ore_sample_vanilla:5",
-                100
+                100,
+                "minecraft:diamond_ore",
+                50
             ],
             "yMin": 2,
-            "yMax": 15,
-            "chance": 23,
-            "size": 20,
+            "yMax": 23,
+            "chance": 35,
+            "size": 128,
             "dimBlacklist": [
                 -1,
                 1
