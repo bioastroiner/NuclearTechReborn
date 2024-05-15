@@ -270,7 +270,7 @@
         {
             "blocks": [
                 "geolosys:ore:6",
-                256,
+                256
             ],
             "samples": [
                 "geolosys:ore_sample:6",
@@ -372,7 +372,7 @@
             ],
             "samples": [
                 "geolosys:ore_sample:10",
-                100,
+                100
             ],
             "yMin": 37,
             "yMax": 46,
