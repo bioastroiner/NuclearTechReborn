@@ -384,5 +384,82 @@
             ],
             "density": 1.0
         }
+
+
+        ,{
+            "blocks": [
+                "hbm:ore_nether_fire",
+                128,
+                "hbm:ore_nether_sulfur",
+                128
+            ],
+            "samples":[
+                "hbm:basalt_sulfur",
+                100
+            ],
+            "dimBlacklist": [
+                0,
+                1
+            ],
+            "blocksValidForReplacement":[
+                "minecraft:netherrack"
+            ],
+            "yMin": 5,
+            "yMax": 100,
+            "chance": 100,
+            "size": 128
+        },
+        {
+            "blocks": [
+                "hbm:ore_nether_uranium",
+                64,
+                "hbm:ore_nether_uranium_scorched",
+                64,
+                "hbm:ore_nether_schrabidium",
+                16,
+                "hbm:ore_nether_plutonium",
+                8,
+                "hbm:ore_depth_nether_neodymium",
+                8
+            ],
+            "samples":[
+                "nuclearcraft:glowing_mushroom",
+                100
+            ],
+            "dimBlacklist": [
+                0,
+                1
+            ],
+            "blocksValidForReplacement":[
+                "minecraft:netherrack"
+            ],
+            "yMin": 5,
+            "yMax": 20,
+            "chance": 55,
+            "size": 256
+        },
+                {
+            "blocks": [
+                "hbm:ore_nether_tungsten",
+                64,
+                "hbm:ore_nether_cobalt",
+                128
+            ],
+            "samples":[
+                "hbm:block_meteor_molten",
+                100
+            ],
+            "dimBlacklist": [
+                0,
+                1
+            ],
+            "blocksValidForReplacement":[
+                "minecraft:netherrack"
+            ],
+            "yMin": 20,
+            "yMax": 40,
+            "chance": 80,
+            "size": 128
+        }
     ]
 }
