@@ -48,12 +48,14 @@
             ],
             "samples": [
                 "geolosys:ore_sample_vanilla:2",
-                100
+                128,
+                "hbm:ore_rare",
+                75
             ],
             "yMin": 5,
-            "yMax": 30,
-            "chance": 24,
-            "size": 40,
+            "yMax": 50,
+            "chance": 65,
+            "size": 115,
             "dimBlacklist": [
                 -1,
                 1
@@ -402,7 +404,11 @@
             ],
             "samples": [
                 "geolosys:ore_sample:10",
-                100
+                100,
+                "hbm:ore_sulfur",
+                50,
+                "geolosys:ore:1",
+                50
             ],
             "yMin": 37,
             "yMax": 46,
