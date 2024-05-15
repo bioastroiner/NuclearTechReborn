@@ -1,0 +1,17 @@
+# ignore client side configs
+je*
+blur.cfg
+dsurround
+overrides\config\legendarytooltips.cfg
+overrides\config\jei
+overrides\config\dynamiclights_dropitems.cfg
+overrides\config\dynamiclights_entityclasses.cfg
+overrides\config\dynamiclights_floodlights.cfg
+overrides\config\dynamiclights_mobequipment.cfg
+overrides\config\dynamiclights_onfire.cfg
+overrides\config\dynamiclights_otherplayers.cfg
+overrides\config\dynamiclights_theplayer.cfg
+overrides\config\dynamiclights.cfg
+overrides\config\jeiintegration.cfg
+overrides\config\journeymap_ModInfo.cfg
+overrides\config\journeymap_server.cfg
