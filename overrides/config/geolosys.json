@@ -5,13 +5,15 @@
                 256
             ],
             "samples": [
+                "hbm:ore_lignite",
+                256,
                 "geolosys:ore_sample_vanilla:0",
                 100
             ],
             "yMin": 8,
             "yMax": 78,
-            "chance": 28,
-            "size": 64,
+            "chance": 75,
+            "size": 256,
             "dimBlacklist": [
                 -1,
                 1
