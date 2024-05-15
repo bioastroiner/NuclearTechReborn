@@ -371,8 +371,16 @@
             "blocks": [
                 "geolosys:ore:9",
                 128,
-                "minecraft:stone:1",
-                32
+                "hbm:ore_uranium",
+                128,
+                "hbm:ore_uranium_scorched",
+                64,
+                "hbm:ore_thorium",
+                128,
+                "hbm:ore_depth_nether_neodymium",
+                32,
+                "hbm:ore_lead",
+                64
             ],
             "samples": [
                 "geolosys:ore_sample:9",
