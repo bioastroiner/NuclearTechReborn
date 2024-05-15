@@ -126,7 +126,9 @@
         {
             "blocks": [
                 "geolosys:ore_vanilla:6",
-                256
+                256,
+                "hbm:ore_beryllium",
+                128
             ],
             "samples": [
                 "geolosys:ore_sample_vanilla:6",
