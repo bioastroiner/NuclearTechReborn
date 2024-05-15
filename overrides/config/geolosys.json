@@ -63,7 +63,13 @@
         {
             "blocks": [
                 "geolosys:ore_vanilla:3",
-                256
+                256,
+                "hbm:ore_fluorite",
+                128,
+                "hbm:ore_cobalt",
+                85,
+                "hbm:ore_coltan",
+                64
             ],
             "samples": [
                 "geolosys:ore_sample_vanilla:3",
@@ -71,8 +77,8 @@
             ],
             "yMin": 10,
             "yMax": 24,
-            "chance": 25,
-            "size": 32,
+            "chance": 50,
+            "size": 128,
             "dimBlacklist": [
                 -1,
                 1
